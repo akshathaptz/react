@@ -67,7 +67,7 @@ export function HomePage({
         />
       </Helmet>
       <div>
-        CRUD Application
+        CRUD Application changes
       </div>
     </article>
   );
